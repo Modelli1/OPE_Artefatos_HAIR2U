@@ -1,5 +1,5 @@
 # OPE_Artefatos_HAIR2U
-OPE Impacta
+OPE Faculdade Impacta
 
 Integrantes
 Felipe Gonçalves Manoel	      1901871	        felipe.manoel@aluno.faculdadeimpacta.com.br	    98495-0306
